@@ -1,0 +1,3 @@
+13:08:31.407 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+13:08:31.483 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+//continues the logs here until exceeds the max size
